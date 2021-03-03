@@ -1,2 +1,2 @@
 # git_test2
-2nd try
+This is Casey_Kelley's 2nd project
